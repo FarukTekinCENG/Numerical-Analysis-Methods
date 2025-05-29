@@ -1,5 +1,5 @@
 # Numerical-Analysis-Methods
-Computer Science Numerical Analysis methods in C. This was my second semester BLM1022 Numerical Analysis ('Sayısal Analiz') course project.
+Computer Science Numerical Analysis methods in C. This was my second semester Numerical Analysis ('Sayısal Analiz') course project.
 The methods are included:
 1. Bisection
 2. Regula-Falsi
